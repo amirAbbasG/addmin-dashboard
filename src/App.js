@@ -31,7 +31,7 @@ function App() {
           className="app"
           style={{
             backgroundImage: `url(/assets/${
-              theme.palette.mode === "dark" ? "bg-dark1.jpg" : "bg-light1.jpg"
+              theme.palette.mode === "dark" ? "bg-dark.jpg" : "bg-light.jpg"
             })`,
           }}
         >
